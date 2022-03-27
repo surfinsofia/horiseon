@@ -1,4 +1,4 @@
-# mockingbird
+# horiseon
 
 Horiseon Website
 Marketing company specialized in search engine optimization, online reputation management, and social media.
