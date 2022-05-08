@@ -8,4 +8,4 @@ First Homework
 Link to deployed application: 
 https://surfinsofia.github.io/horiseon
 
-
+![Screenshot(screenshot.png)]
